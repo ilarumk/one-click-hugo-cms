@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: "Welcome to Earlylearners"
 headless: true
 ---
 
-I'm a theme for Hugo
+Learn, Share
